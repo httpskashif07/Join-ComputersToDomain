@@ -1,1 +1,1 @@
-# Join-ComputersToDomian
+# Join-ComputersToDomain
